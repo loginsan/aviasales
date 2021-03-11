@@ -1,0 +1,15 @@
+.app {
+  width: 754px;
+  margin: 2rem auto;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo--img {
+  width: 60px;
+  height: 60px;
+  margin: 2rem auto;
+  transform: scale(1.5);
+}
